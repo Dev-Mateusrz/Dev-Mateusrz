@@ -1,43 +1,16 @@
-# 👩🏻‍💻 Mateus Rodrigues
+<div align="center">
 
-**`Desenvolvedora Front-End`**
+# | ᴍᴀᴛᴇᴜs ʀᴏᴅʀɪɢᴜᴇs |
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Desenvolvedor Front-End Júnior;" />
 
-SOBRE MIM
+</div>
 
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+## Sobre Mim
+𝐌𝐞 𝐜𝐡𝐚𝐦𝐨 𝐌𝐚𝐭𝐞𝐮𝐬 𝐑𝐨𝐝𝐫𝐢𝐠𝐮𝐞𝐬, 𝐭𝐞𝐧𝐡𝐨 𝟏𝟗 𝐚𝐧𝐨𝐬 𝐞 𝐦𝐨𝐫𝐨 𝐧𝐨 𝐑𝐢𝐨 𝐝𝐞 𝐉𝐚𝐧𝐞𝐢𝐫𝐨. 𝐀𝐭𝐮𝐚𝐥𝐦𝐞𝐧𝐭𝐞 𝐞𝐬𝐭𝐨𝐮 𝐜𝐮𝐫𝐬𝐚𝐧𝐝𝐨 𝐀𝐧á𝐥𝐢𝐬𝐞 𝐝𝐞 𝐃𝐞𝐬𝐞𝐧𝐯𝐨𝐥𝐯𝐢𝐦𝐞𝐧𝐭𝐨 𝐝𝐞 𝐒𝐢𝐬𝐭𝐞𝐦𝐚𝐬 𝐧𝐚 𝐄𝐒𝐓Á𝐂𝐈𝐎 𝐞 𝐓é𝐜𝐧𝐢𝐜𝐨 𝐝𝐞 𝐈𝐧𝐟𝐨𝐫𝐦á𝐭𝐢𝐜𝐚 𝐩𝐚𝐫𝐚 𝐈𝐧𝐭𝐞𝐫𝐧𝐞𝐭 𝐧𝐚 𝐅𝐀𝐄𝐓𝐄𝐂. 𝐀𝐩𝐚𝐢𝐱𝐨𝐧𝐚𝐝𝐨 𝐩𝐨𝐫 𝐭𝐞𝐜𝐧𝐨𝐥𝐨𝐠𝐢𝐚 𝐝𝐞𝐬𝐝𝐞 𝐚 𝐢𝐧𝐟â𝐧𝐜𝐢𝐚, 𝐬𝐢𝐠𝐨 𝐞𝐬𝐭𝐮𝐝𝐚𝐧𝐝𝐨 𝐞 𝐩𝐫á𝐭𝐢𝐜𝐚𝐧𝐝𝐨 𝐩𝐚𝐫𝐚 𝐜𝐨𝐧𝐬𝐞𝐠𝐮𝐢𝐫 𝐦𝐢𝐧𝐡𝐚 𝐩𝐫𝐢𝐦𝐞𝐢𝐫𝐚 𝐯𝐚𝐠𝐚 𝐧𝐚 á𝐫𝐞𝐚.
 
----
 
-### 🤖 Linguagens e Tecnologias
+<h3> Tecnologias</h3>
+
 
 <img 
     align="left" 
