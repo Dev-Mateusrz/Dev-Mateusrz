@@ -9,13 +9,6 @@
   <a href="https://www.linkedin.com/in/dev-mateusrz/" target="_blank"
      style="text-decoration:none;">
     <span style="background:#66c2ff;color:white;padding:8px 12px;border-radius:8px;">
-    <img
-      src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
-      width="15"
-      style="vertical-align:middle;"
-      alt="LinkedIn"
-    />
-    |
       <b>LinkedIn</b> • devmateusrz
     </span>
   </a>
